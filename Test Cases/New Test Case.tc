@@ -6,4 +6,30 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>1785ceb0-8873-460c-a3b3-007c0b856056</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bada35fe-ace1-4200-bcd0-10c2f74512c6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>475dcbd6-e146-4477-94f0-06c9bdbb296f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.baidu.com/'</defaultValue>
+      <description></description>
+      <id>bada35fe-ace1-4200-bcd0-10c2f74512c6</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'网盘'</defaultValue>
+      <description></description>
+      <id>475dcbd6-e146-4477-94f0-06c9bdbb296f</id>
+      <masked>false</masked>
+      <name>wenzi</name>
+   </variable>
 </TestCaseEntity>

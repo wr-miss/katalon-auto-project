@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>100个网址内部数据</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>a0329379-a2e0-4729-ae4a-54701262f1de</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>https%3A%2F%2Fwww.baidu.com%2F %E5%9C%A8%E5%90%97</data>
+   <data>https%3A%2F%2Fwww.baidu.com%2F %E7%BD%91%E7%9B%98</data>
+   <data>https%3A%2F%2Fwww.baidu.com%2F %E9%94%99%E8%AF%AF</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>url</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>results</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>百度excel</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>cc3087d4-5c5c-4f01-b90b-4ea8b2680b5d</testSuiteGuid>
+   <testCaseLink>
+      <guid>44d4c8b6-19aa-4208-ad39-353f82dd83f9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'https://www.baidu.com/'</defaultValue>
+         <description></description>
+         <id>bada35fe-ace1-4200-bcd0-10c2f74512c6</id>
+         <masked>false</masked>
+         <name>url</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/New Test Case</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b4ed1185-c1d6-4c23-99d3-68387e3741ac</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/100个网址excel</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b4ed1185-c1d6-4c23-99d3-68387e3741ac</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>bada35fe-ace1-4200-bcd0-10c2f74512c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b4ed1185-c1d6-4c23-99d3-68387e3741ac</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>wenzi</value>
+         <variableId>475dcbd6-e146-4477-94f0-06c9bdbb296f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

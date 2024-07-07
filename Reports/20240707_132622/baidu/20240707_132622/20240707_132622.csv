@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+baidu,Chrome 126.0.0.0,,,07-07-2024 13:26:27,07-07-2024 13:28:15,1m - 48.942s,FAILED
+,,,,,,,
+Test Cases/New Test Case,Chrome 126.0.0.0,,,07-07-2024 13:26:27,07-07-2024 13:26:51,24.602s,FAILED
+"openBrowser("""")",Chrome 126.0.0.0,,,07-07-2024 13:26:27,07-07-2024 13:26:29,1.947s,PASSED
+navigateToUrl(url),Chrome 126.0.0.0,,,07-07-2024 13:26:29,07-07-2024 13:26:50,21.265s,PASSED
+"verifyTextPresent(wenzi, false, STOP_ON_FAILURE)",Chrome 126.0.0.0,,,07-07-2024 13:26:50,07-07-2024 13:26:51,0.967s,FAILED
+,,,,,,,
+Test Cases/New Test Case,Chrome 126.0.0.0,,,07-07-2024 13:26:51,07-07-2024 13:27:02,10.906s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,07-07-2024 13:26:52,07-07-2024 13:26:53,1.045s,PASSED
+navigateToUrl(url),Chrome 126.0.0.0,,,07-07-2024 13:26:53,07-07-2024 13:26:59,6.627s,PASSED
+"verifyTextPresent(wenzi, false, STOP_ON_FAILURE)",Chrome 126.0.0.0,,,07-07-2024 13:26:59,07-07-2024 13:27:00,0.749s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input__wd""), ""baidu"")",Chrome 126.0.0.0,,,07-07-2024 13:27:00,07-07-2024 13:27:01,0.801s,PASSED
+"click(findTestObject(""Object Repository/Page_/input__su""))",Chrome 126.0.0.0,,,07-07-2024 13:27:01,07-07-2024 13:27:02,1.647s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 126.0.0.0,,,07-07-2024 13:27:02,07-07-2024 13:28:13,1m - 10.816s,FAILED
+"openBrowser("""")",Chrome 126.0.0.0,,,07-07-2024 13:27:02,07-07-2024 13:27:03,1.003s,PASSED
+navigateToUrl(url),Chrome 126.0.0.0,,,07-07-2024 13:27:03,07-07-2024 13:28:12,1m - 8.826s,PASSED
+"verifyTextPresent(wenzi, false, STOP_ON_FAILURE)",Chrome 126.0.0.0,,,07-07-2024 13:28:12,07-07-2024 13:28:13,0.961s,FAILED
+,,,,,,,
+Test Cases/New Test Case,Chrome 126.0.0.0,,,07-07-2024 13:28:13,07-07-2024 13:28:14,1.056s,FAILED
+"openBrowser("""")",Chrome 126.0.0.0,,,07-07-2024 13:28:13,07-07-2024 13:28:14,0.898s,PASSED
+navigateToUrl(url),Chrome 126.0.0.0,,,07-07-2024 13:28:14,07-07-2024 13:28:14,0.133s,FAILED
+,,,,,,,
+Test Cases/New Test Case,Chrome 126.0.0.0,,,07-07-2024 13:28:14,07-07-2024 13:28:15,1.126s,FAILED
+"openBrowser("""")",Chrome 126.0.0.0,,,07-07-2024 13:28:14,07-07-2024 13:28:15,0.953s,PASSED
+navigateToUrl(url),Chrome 126.0.0.0,,,07-07-2024 13:28:15,07-07-2024 13:28:15,0.151s,FAILED

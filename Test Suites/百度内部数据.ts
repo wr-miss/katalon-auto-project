@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>百度内部数据</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>feab89a0-5029-449f-b506-83337d866972</testSuiteGuid>
+   <testCaseLink>
+      <guid>2f5193e6-80bf-461b-8a3e-189d7bb11d1b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/New Test Case</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>31164cf9-18fd-4f5a-b636-657795050fa4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/100个网址内部数据</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>31164cf9-18fd-4f5a-b636-657795050fa4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>bada35fe-ace1-4200-bcd0-10c2f74512c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>31164cf9-18fd-4f5a-b636-657795050fa4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>results</value>
+         <variableId>475dcbd6-e146-4477-94f0-06c9bdbb296f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

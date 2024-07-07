@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+百度excel,Chrome 126.0.0.0,,,07-07-2024 14:18:18,07-07-2024 14:19:14,55.464s,FAILED
+,,,,,,,
+Test Cases/New Test Case,Chrome 126.0.0.0,,,07-07-2024 14:18:19,07-07-2024 14:18:33,14.059s,FAILED
+"openBrowser("""")",Chrome 126.0.0.0,,,07-07-2024 14:18:19,07-07-2024 14:18:21,2.026s,PASSED
+navigateToUrl(url),Chrome 126.0.0.0,,,07-07-2024 14:18:21,07-07-2024 14:18:30,8.841s,PASSED
+"verifyTextPresent(wenzi, false, CONTINUE_ON_FAILURE)",Chrome 126.0.0.0,,,07-07-2024 14:18:30,07-07-2024 14:18:31,0.935s,FAILED
+"setText(findTestObject(""Object Repository/Page_/input__wd""), ""baidu"")",Chrome 126.0.0.0,,,07-07-2024 14:18:31,07-07-2024 14:18:32,0.841s,PASSED
+"click(findTestObject(""Object Repository/Page_/input__su""))",Chrome 126.0.0.0,,,07-07-2024 14:18:32,07-07-2024 14:18:33,0.991s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 126.0.0.0,,,07-07-2024 14:18:33,07-07-2024 14:18:58,25.513s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,07-07-2024 14:18:33,07-07-2024 14:18:34,0.988s,PASSED
+navigateToUrl(url),Chrome 126.0.0.0,,,07-07-2024 14:18:34,07-07-2024 14:18:56,21.831s,PASSED
+"verifyTextPresent(wenzi, false, CONTINUE_ON_FAILURE)",Chrome 126.0.0.0,,,07-07-2024 14:18:56,07-07-2024 14:18:57,0.868s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input__wd""), ""baidu"")",Chrome 126.0.0.0,,,07-07-2024 14:18:57,07-07-2024 14:18:57,0.747s,PASSED
+"click(findTestObject(""Object Repository/Page_/input__su""))",Chrome 126.0.0.0,,,07-07-2024 14:18:57,07-07-2024 14:18:58,1.053s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 126.0.0.0,,,07-07-2024 14:18:58,07-07-2024 14:19:14,15.523s,FAILED
+"openBrowser("""")",Chrome 126.0.0.0,,,07-07-2024 14:18:58,07-07-2024 14:18:59,1.007s,PASSED
+navigateToUrl(url),Chrome 126.0.0.0,,,07-07-2024 14:18:59,07-07-2024 14:19:11,12.018s,PASSED
+"verifyTextPresent(wenzi, false, CONTINUE_ON_FAILURE)",Chrome 126.0.0.0,,,07-07-2024 14:19:11,07-07-2024 14:19:12,0.761s,FAILED
+"setText(findTestObject(""Object Repository/Page_/input__wd""), ""baidu"")",Chrome 126.0.0.0,,,07-07-2024 14:19:12,07-07-2024 14:19:13,0.660s,PASSED
+"click(findTestObject(""Object Repository/Page_/input__su""))",Chrome 126.0.0.0,,,07-07-2024 14:19:13,07-07-2024 14:19:14,1.040s,PASSED
