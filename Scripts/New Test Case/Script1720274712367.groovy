@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.acceptAlert()
+
 WebUI.navigateToUrl(url)
 
 WebUI.verifyTextPresent(wenzi, false, FailureHandling.CONTINUE_ON_FAILURE)
@@ -27,4 +29,5 @@ WebUI.setText(findTestObject('Object Repository/Page_/input__wd'), 'baidu')
 
 WebUI.click(findTestObject('Object Repository/Page_/input__su'))
 
-println "${employee} - ${department}"
+WebUI.closeBrowser()
+
