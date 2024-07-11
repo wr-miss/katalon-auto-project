@@ -3,13 +3,18 @@
    <description></description>
    <name>100个网站数据库</name>
    <tag></tag>
-   <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>97a9fc93-f581-429b-b577-3a57d1fad3f6</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>DBData</driver>
    <isInternalPath>false</isInternalPath>
+   <properties>
+      <entry>
+         <key>readAsString</key>
+         <value>true</value>
+      </entry>
+   </properties>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName></sheetName>
